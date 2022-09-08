@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on: nothing<br>
 - 🤔 I’m looking for help with: nothing<br>
 - 💬 Ask me about: idk whatever u want ig?<br>
-- 📫 How to reach me: prljav#6862<br>
+- 📫 How to reach me: prljav#6862 or shoot me an email prljav@cock.li<br>
 - ⚡ Fun fact: a lot of fun facts arent fun<br>
 <img src="https://discord.c99.nl/widget/theme-2/603614636843073536.png">
 
