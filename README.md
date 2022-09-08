@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with: nothing<br>
 - 💬 Ask me about: idk whatever u want ig?<br>
 - 📫 How to reach me: prljav#6862 or shoot me an email prljav@cock.li<br>
-- If you are planning on sending me an email, i suggest you to encrypt it. My public pgp key can be found at the bottom of this page.<br>
+- If you are planning on sending me an email, i suggest you to encrypt it. My public pgp key: https://raw.githubusercontent.com/prljav/info/main/0x385047B3-pub.asc <br>
 - ⚡ Fun fact: a lot of fun facts arent fun<br>
 <img src="https://discord.c99.nl/widget/theme-2/603614636843073536.png">
   
