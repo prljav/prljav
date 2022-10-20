@@ -1,4 +1,11 @@
-### Hi there 👋
+<p align="center">
+    Hi, I'm prljav! 👋
+</p><p align="center">
+    <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=grey&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/prljav" alt="Total forks">
+    <img src="https://komarev.com/ghpvc/?username=prljav&color=grey">
+</p>
+
+---------------------------------------------------------------------------------------
 
 <!--
 **prljav/prljav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
